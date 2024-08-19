@@ -77,5 +77,42 @@ button {
 
 }
 
+
 /*-Section 2 */
+.two{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+.random {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    padding: 30px;
+}
+
+.info{
+    display: flex;
+    gap: 50px;
+}
+
+.box{
+    width:160px;
+    height:160px;
+    border: 3px solid #4580ff;
+    border-radius: 8px;
+}
+.boxtext{
+    font-size: 18px;
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:160px;
+}
 
