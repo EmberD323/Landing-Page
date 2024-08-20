@@ -64,8 +64,8 @@ a,.sub{
     height: 225px;
 }
 
-button {
-    background-color: #4580ff;
+ button {
+    background-color: #3882f6;
     text-align: center;
     font-size: 18px;
     font-weight: 600;
@@ -101,7 +101,7 @@ button {
 .box{
     width:160px;
     height:160px;
-    border: 3px solid #4580ff;
+    border: 3px solid #3882f6;;
     border-radius: 8px;
 }
 .boxtext{
@@ -133,3 +133,36 @@ button {
     font-size: 18px;
     font-weight: 1000;
 }
+
+/*-Section 4 */
+.call button{
+    border-color: #F9FAF8;
+}
+
+.call{
+    background-color: #3882f6;
+    border-radius: 8px;
+    color: white;
+    margin: 75px 200px;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+
+}
+
+.time{
+    font-weight: 800;
+}
+/*-Section 5 -footer */
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: 75px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
